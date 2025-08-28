@@ -1,0 +1,12 @@
+#lambo {
+    background-image: url(../Assets/lambo-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.avatar {
+    width: 40px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+}
